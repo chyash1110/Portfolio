@@ -16,7 +16,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Getting Started
 
-To view my portfolio, simply open the [index.html](./index.html) file in your web browser. For a live preview, visit [Portfolio](https://example-portfolio-url.com).
+To view my portfolio, simply open the [index.html](./index.html) file in your web browser. For a live preview, visit [Portfolio](https://chyash1110.github.io/Portfolio/).
 
 ## Technologies Used
 
